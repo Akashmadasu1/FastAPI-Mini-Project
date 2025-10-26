@@ -1,1 +1,1 @@
-# FastAPI-Mini-Project
+# FastAPI Demo - Products API
