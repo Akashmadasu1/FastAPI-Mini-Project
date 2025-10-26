@@ -1,5 +1,5 @@
 
-# FastAPI Demo - Products API
+# FastAPI - Products API
 
 A simple FastAPI application demonstrating GET and POST endpoints for product management and inventory tracking.
 
